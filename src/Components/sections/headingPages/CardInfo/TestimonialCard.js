@@ -1,4 +1,4 @@
-import Star from '../../../../assets/star.png';
+import Star from '../../../../Assets/star.png';
 export default function TestimonialCard(props) {
     return (
         <article className="testimonial-card">

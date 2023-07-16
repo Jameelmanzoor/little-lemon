@@ -1,13 +1,13 @@
 import './App.css';
 import Footer from './Components/Footer';
-import Header from './Components/Header';
 import Navbar from './Components/Navbar';
+import Routing from "./Components/Routing";
 
 function App() {
   return (
     <>
-     <Header />
      <Navbar />
+     <Routing />
      <Footer />
     </>
   );

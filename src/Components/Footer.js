@@ -5,7 +5,7 @@ export default function Footer() {
       <menu>
         <li className="img-footer">
           <img
-            src={require("../assets/footer-logo.png")}
+            src={require("../Assets/footer-logo.png")}
             alt="Little Lemon logo"
           ></img>
         </li>
@@ -15,7 +15,7 @@ export default function Footer() {
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <a
-              href={require("../assets/menu.webp")}
+              href={require("../Assets/menu.webp")}
               target="_blank"
               rel="noreferrer"
             >
@@ -48,21 +48,21 @@ export default function Footer() {
           <h1 className="footer-header">Connect</h1>
           <ul className="footer-links">
             <a
-              href="https://www.facebook.com/thelittlelemonshop/"
+              href="https://www.facebook.com"
               target="_blank"
               rel="noreferrer"
             >
               Facebook
             </a>
             <a
-              href="https://www.instagram.com/littlelemonmoon/"
+              href="https://www.instagram.com"
               target="_blank"
               rel="noreferrer"
             >
               Instagram
             </a>
             <a
-              href="https://www.youtube.com/watch?v=3Li-FfypZYE"
+              href="https://www.youtube.com"
               target="_blank"
               rel="noreferrer"
             >
